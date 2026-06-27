@@ -1,0 +1,1 @@
+document.querySelectorAll('a.btn').forEach(b=>b.addEventListener('click',e=>{if(b.getAttribute('href')=='#'){e.preventDefault();alert('Aquí conectaremos Tilopay en la siguiente versión.')}}));
