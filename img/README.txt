@@ -1,1 +1,0 @@
-Coloca aquí hero.jpg y demás imágenes.
