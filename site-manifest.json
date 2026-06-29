@@ -1,0 +1,7 @@
+{
+  "name": "jowiscr-github-site",
+  "type": "static-github-pages",
+  "entry": "index.html",
+  "files": ["index.html", "styles.css", "script.js", ".nojekyll", "README.md", "site-manifest.json"],
+  "source": "WordPress export and public jowiscr.wordpress.com page"
+}
